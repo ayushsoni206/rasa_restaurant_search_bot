@@ -93,4 +93,10 @@ rasa shell nlu
 rasa shell
 ```
 
+- Interactive Learning
+
+``` bash
+rasa interactive
+```
+
 #### Before using, make sure to change the mail configuration in data/smtp.config file and zomato api key in the actions.py file.
