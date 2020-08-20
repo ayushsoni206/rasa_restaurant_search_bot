@@ -1,0 +1,5 @@
+smtpserver_host=smtp.gmail.com
+smtpserver_port=465
+username=foodiechatbot5@gmail.com
+password=password@12345
+from_email=foodiechatbot5@gmail.com
