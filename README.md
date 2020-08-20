@@ -73,8 +73,23 @@ Visual Studio: (For Windows only)
 rasa train nlu
 ```
 
-- Conversation Flow training using Rasa Core (modify data/stories.md and domain.yml file for training on custom data)
+- Rasa Dialogue Flow training using Rasa Core (modify data/stories.md and domain.yml file for training on custom data)
 
 ``` bash
 rasa train core
 ```
+
+### Testing 
+
+- Rasa NLU
+
+``` bash
+rasa shell nlu
+```
+
+- Rasa Dialogue Flow
+
+``` bash
+rasa shell
+```
+
